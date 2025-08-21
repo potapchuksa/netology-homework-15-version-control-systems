@@ -1,1 +1,7 @@
-# netology-homework-15-version-control-systems
+# Домашнее задание к занятию «Системы контроля версий». Потапчук Сергей.
+
+[](img/img-01-01.png)
+
+[](img/img-01-02.png)
+
+
