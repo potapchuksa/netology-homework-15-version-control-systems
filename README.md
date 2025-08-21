@@ -1,16 +1,16 @@
 # Домашнее задание к занятию «Системы контроля версий». Потапчук Сергей.
 
-[](img/img-01-01.png)
+![](img/img-01-01.png)
 
-[](img/img-01-02.png)
+![](img/img-01-02.png)
 
-[](img/img-01-03.png)
+![](img/img-01-03.png)
 
-[](img/img-01-04.png)
+![](img/img-01-04.png)
 
-[](img/img-01-05.png)
+![](img/img-01-05.png)
 
-[](img/img-01-06.png)
+![](img/img-01-06.png)
 
 Файл .gitignore описывает игнорирование:
 
@@ -22,12 +22,12 @@
 * Лок инфо файл создаваемый Терраформом
 * Файлы конфигурации CLI
 
-[](img/img-01-07.png)
+![](img/img-01-07.png)
 
-[](img/img-01-08.png)
+![](img/img-01-08.png)
 
-[](img/img-01-09.png)
+![](img/img-01-09.png)
 
-[](img/img-01-10.png)
+![](img/img-01-10.png)
 
-[](img/img-01-11.png)
+![](img/img-01-11.png)
