@@ -43,7 +43,7 @@
 
 ![](img/img-01-11.png)
 
-<a id="task-2-link"></a>
+<span id="task-2-link"></span>
 # Домашнее задание к занятию «Основы Git»
 
 ![](img/img-02-01.png)
