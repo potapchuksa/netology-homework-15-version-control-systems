@@ -1,3 +1,4 @@
+<span id="top"></span>
 # Домашнее задание к занятию «Системы контроля версий». Потапчук Сергей.
 
 [Домашнее задание к занятию «Основы Git»](#task-2-link)
@@ -90,7 +91,49 @@
 
 ![](img/img-02-21.png)
 
+[В начало](#top)
+
 <span id="task-3-link"></span>
 # Домашнее задание к занятию «Ветвления в Git»
 
+![](img/img-03-01.png)
 
+![](img/img-03-02.png)
+
+![](img/img-03-03.png)
+
+![](img/img-03-04.png)
+
+![](img/img-03-05.png)
+
+![](img/img-03-06.png)
+
+![](img/img-03-07.png)
+
+![](img/img-03-08.png)
+
+![](img/img-03-09.png)
+
+![](img/img-03-10.png)
+
+![](img/img-03-11.png)
+
+![](img/img-03-12.png)
+
+![](img/img-03-13.png)
+
+![](img/img-03-14.png)
+
+![](img/img-03-15.png)
+
+![](img/img-03-16.png)
+
+![](img/img-03-17.png)
+
+![](img/img-03-18.png)
+
+![](img/img-03-19.png)
+
+![](img/img-03-20.png)
+
+[В начало](#top)
